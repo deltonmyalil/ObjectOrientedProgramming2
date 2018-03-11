@@ -4,4 +4,6 @@
 4. Encapsulation1
 5. Encapsulation2challenge: Validation on initialization as a property of base class
 6. Polymorphism - 1
-7. Polymorphism - 2
+7. Polymorphism - 2 - INCOMPLETE
+
+
